@@ -1,6 +1,8 @@
 {
     "name": "anwar/test",
     "license": "MIT",
+    "version": "0.0.1",
+    "type":    "php-library",
     "description": "Laravel pakage skull for create laravel 5.4 pakage.",
     "keywords": ["pakage", "laravel"],
     "authors": [

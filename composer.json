@@ -10,13 +10,5 @@
             "name": "Anwar",
             "email": "ajr.jahid@gmail.com"
         }
-    ],
-    "require": {
-        "laravel/framework": "5.5.*"
-    },
-    "require-dev": {
-        "laravel/framework": "5.5.*"
-    },
-    "minimum-stability" : "dev",
-    "prefer-stable" : true
+    ]
 }

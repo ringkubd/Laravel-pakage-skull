@@ -1,5 +1,5 @@
 {
-    "name": "crud/test",
+    "name": "Anwar/TraitCreator",
     "license": "MIT",
     "version": "0.0.1",
     "description": "Laravel pakage skull for create laravel 5.4 pakage.",
@@ -18,7 +18,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Crud\\Test\\TestProvider"
+                "Anwar\\TraitCreator\\TestProvider"
             ]
         }
     }

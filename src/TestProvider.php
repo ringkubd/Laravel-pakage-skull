@@ -1,10 +1,10 @@
 <?php
 
-namespace Crud\Test;
+namespace Anwar\TraitCreator;
 
 use Illuminate\Support\ServiceProvider;
 
-class TestProvider extends ServiceProvider
+class TraitServiceProvider extends ServiceProvider
 {
     /**
      * Bootstrap the application services.

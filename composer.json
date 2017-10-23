@@ -15,5 +15,12 @@
         "php": ">=5.4.0",
         "illuminate/support": "~5.0"
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Crud\\Test\\TestProvider"
+            ]
+        }
+    },
 }

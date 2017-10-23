@@ -15,7 +15,7 @@
         "php": ">=5.4.0",
         "illuminate/support": "~5.0"
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "extra": {
         "laravel": {
             "providers": [
